@@ -1,0 +1,52 @@
+<loader version="1.0">
+	<application id="TextWarrior">
+		<name >
+			TextWarrior
+		</name>
+		<description >
+			Programming text editor with syntax highlighting.
+		</description>
+		<version >
+			0.8
+		</version>
+		<vendor >
+			Tah Wei Hoon
+		</vendor>
+		<copyright >
+			Copyright (c) 2010 Tah Wei Hoon
+		</copyright>
+		<language langid="0x0007">
+			<name >
+				TextWarrior
+			</name>
+			<description />
+
+		</language>
+		<language langid="0x000a">
+			<name >
+				TextWarrior
+			</name>
+			<description />
+
+		</language>
+		<language langid="0x000c">
+			<name >
+				TextWarrior
+			</name>
+			<description />
+
+		</language>
+		<fileset Java="1.49" _blackberryVersion="[4.5.0)">
+			<directory >
+				4.5.0
+			</directory>
+			<files >
+				TextWarrior.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+MIDlet-Version: 0.8
+MIDlet-Jar-Size: 177194
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: TextWarrior.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Module-Name: TextWarrior
+RIM-COD-Size: 67660
+MIDlet-Name: TextWarrior
+RIM-COD-Creation-Time: 1291983371
+MIDlet-1: TextWarrior,com/myopicmobile/textwarrior/bb/TextWarrior_icon.png,
+RIM-COD-URL: TextWarrior.cod
+MIDlet-Description: Programming text editor with syntax highlighting.
+RIM-MIDlet-NameResourceId-1: 0
+RIM-COD-SHA1: 92 91 74 8a 94 99 b9 3f 6a ff 12 68 c5 7f 26 e6 52 7a 3f 0d
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Tah Wei Hoon
+RIM-MIDlet-NameResourceBundle-1: com.myopicmobile.textwarrior.bb.TextWarriorStrings
