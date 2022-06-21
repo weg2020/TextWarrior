@@ -1,7 +1,7 @@
 Mirror repository from https://sourceforge.net/projects/textwarrior
 
 # TextWarrion
-## TextWarrior is a programming text editor for mobile devices, featuring efficient and fun ways to work on a touch screen. Now you can read and edit code on your vacation! [insert evil laugh]
+TextWarrior is a programming text editor for mobile devices, featuring efficient and fun ways to work on a touch screen. Now you can read and edit code on your vacation! [insert evil laugh]
 
 ## Features
 - Syntax coloring
