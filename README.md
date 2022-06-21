@@ -3,7 +3,7 @@ Mirror repository from https://sourceforge.net/projects/textwarrior
 
 TextWarrior is a programming text editor for mobile devices, featuring efficient and fun ways to work on a touch screen. Now you can read and edit code on your vacation! [insert evil laugh]
 
-##Features
+## Features
 Syntax coloring
 Slideable clipboard
 5 cursor navigation methods to choose from
@@ -13,7 +13,7 @@ Shortcuts to insert all those weird symbols like {\.\}
 Look and feel of the native OS
 Works with different combinations of input devices: touchscreen, keyboard, stylii...
 
-##License
+## License
 
 ```
 Copyright (c) 2013 Tah Wei Hoon.
