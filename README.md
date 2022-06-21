@@ -13,5 +13,12 @@ Shortcuts to insert all those weird symbols like {\.\}
 Look and feel of the native OS
 Works with different combinations of input devices: touchscreen, keyboard, stylii...
 
-## License
-[![Github license](https://img.shields.io/github/license/weg2020/TextWarrior)](https://github.com/weg2020/TextWarrior/blob/master/android/0.93/TextWarrior/copyright.txt)
+##License
+
+```
+Copyright (c) 2013 Tah Wei Hoon.
+All rights reserved. This program and the accompanying materials are made available under the terms of the Apache License Version 2.0.
+The full license terms can be found at http://www.apache.org/licenses/LICENSE-2.0.html
+
+This software is provided "as is". Use at your own risk.
+```
